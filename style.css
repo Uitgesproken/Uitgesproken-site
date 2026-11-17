@@ -284,7 +284,7 @@ body {
   color: var(--cream-dim);
 }
 
-.legal ul {
+.legal ul, .legal ol {
   margin: 0 0 1rem;
   padding-left: 1.25rem;
 }
